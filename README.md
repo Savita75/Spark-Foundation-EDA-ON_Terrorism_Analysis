@@ -5,11 +5,12 @@ This repository contain Task-? of Spark foundation in Data analytics and busines
 ![image](https://user-images.githubusercontent.com/102464532/220403265-922d0b84-7c37-40f1-952c-58730d5b2ad0.png)
 
 Problem statement:
-As a security analyst try to find out the hot zone of terrorism.
 
-Define the security issues and insights from the data
+- As a security analyst try to find out the hot zone of terrorism.
 
-perform exploratory data analysis using python and create a storytelling dashboard using powerBI
+- Define the security issues and insights from the data
+
+- perform exploratory data analysis using python and create a storytelling dashboard using powerBI
 
 
 Dashboard using PowerBI:
